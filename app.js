@@ -1,5 +1,14 @@
 // let form = document.getElementById('form');
 
+
+// const inputName = document.getElementById('name');
+// const email = document.getElementById('email');
+// const password = document.getElementById('password');
+// const country = document.getElementById('country');
+// const message = document.querySelector('small')
+
+
+
 // form.addEventListener('submit', function (e) {
 //     e.preventDefault()
     
@@ -34,8 +43,6 @@ form.addEventListener('submit', function (e) {
 
     this.reset()
 })
-
-
 
 
 // All the information are stored in the inputObject variable

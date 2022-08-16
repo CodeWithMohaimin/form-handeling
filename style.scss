@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    list-style: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container{
+    background-color: #99f;
+    #form{
+        background-color: #99f;
+        padding: 20px;
+        margin: 0px auto;
+        width: 350px;
+        label{
+            font-size: 25px;
+            color: #222;
+        }
+        input{
+            border: none;
+            padding: 5px;
+            margin-bottom: 20px;
+            outline: none;
+            font-size: 19px;
+            width: 320px;
+        }
+        #btn{
+            padding: 7px 15px;
+            background: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        #btn:hover{
+            background: rgb(100, 206, 144);
+        }
+    }
+}

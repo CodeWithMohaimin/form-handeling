@@ -46,3 +46,4 @@ form.addEventListener('submit', function (e) {
 
 
 // All the information are stored in the inputObject variable
+// adding some importent codes
